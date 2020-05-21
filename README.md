@@ -1,9 +1,4 @@
 # skills-demo
-Demonstration of my QA &amp; programming skills
-
-programming/sql/mysql/the-company<br>
-> language: MySQL<br>
-> software: MySQL Workbench 8, XAMPP 3, phpMyAdmin 5<br><br>
 
 qa/postman/superscheduler-v003<br>
 > SuperScheduler app API Testing:<br>
@@ -12,3 +7,7 @@ qa/postman/superscheduler-v003<br>
 > cURL<br>
 > JavaScript snippets & scripts<br>
 > JSON<br><br>
+
+programming/sql/mysql/the-company<br>
+> language: MySQL<br>
+> software: MySQL Workbench 8, XAMPP 3, phpMyAdmin 5<br><br>

@@ -9,5 +9,6 @@ qa/postman/superscheduler-v003<br>
 > JSON<br><br>
 
 programming/sql/mysql/the-company<br>
-> language: MySQL<br>
+> language: SQL<br>
+> database: MySQL<br>
 > software: MySQL Workbench 8, XAMPP 3, phpMyAdmin 5<br><br>
